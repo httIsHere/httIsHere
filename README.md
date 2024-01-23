@@ -1,5 +1,9 @@
-<div align="center">[![Tina](https://readme-typing-svg.demolab.com/?lines=console.log('Hello,+World'))](https://git.io/typing-svg)</div>
+<div align="center">
+  [![Tina](https://readme-typing-svg.demolab.com/?lines=console.log('Hello,+World'))](https://git.io/typing-svg)
+</div>
+
 ---
+
 - 👋 Hi, I’m @httIsHere
 - 👀 I’m interested in myself
 - 🌱 I’m currently learning Japanese and some computer language
