@@ -1,6 +1,4 @@
-<div align="center">
-  [![Tina](https://readme-typing-svg.demolab.com/?lines=console.log('Hello,+World'))](https://git.io/typing-svg)
-</div>
+[![Tina](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9D7414&vCenter=true&random=false&width=435&lines=console.log('Hello%2C+World'))](https://git.io/typing-svg)
 
 ---
 
